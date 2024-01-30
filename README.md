@@ -1,1 +1,1 @@
-Desenvolvedor C#
+Desenvolvedor
